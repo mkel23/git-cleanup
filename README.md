@@ -3,5 +3,5 @@
 Just a small script to help me clean up my local branches.
 
 Note:
-  - Not Tested
+  - NOT Tested (Use at your own risk)
   - Not Perfect
